@@ -1,4 +1,4 @@
-# Notebook 
+# Codebook :zero::one::zero::one::one::zero:
 This repo is a collection of _super_ useful code snippets in C++ (_some are in Java, also_)  for optimized and time-saving implementation of algorithms and tricks used in competitive coding, and propbably extend it for storing repetitive code for other projects.
 
 :smile:
